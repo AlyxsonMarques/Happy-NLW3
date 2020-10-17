@@ -12,6 +12,7 @@ Ação beneficente a crianças carentes
 <li>NodeJS</li>
 <li>SQLite</li>
 <li>Handlebars</li>
+<li>Express Framework</li>
 </ul>
 
 <i>(Outras)</i>:
