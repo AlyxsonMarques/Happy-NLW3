@@ -11,6 +11,7 @@ Tecnologias utilizadas
 <li>JavaScript</li>
 <li>NodeJS</li>
 <li>SQLite</li>
+<li>Handlebars</li>
 </ul>
 
 <i>(Outras)</i>:
