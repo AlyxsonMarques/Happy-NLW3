@@ -3,7 +3,7 @@
 Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@Maykbrito</a> e a todos da RocketSeat
 
 Ação beneficente a crianças carentes
-Tecnologias utilizadas
+<p>Tecnologias utilizadas</p>
 
 <ul>
 <li>HTML</li>
