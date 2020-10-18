@@ -4,7 +4,7 @@ Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@M
 
 Ação beneficente a crianças carentes
 
-<img width="640px" src="Screenshots/Orfanato-1.png"/>
+<img width="320px" src="Screenshots/Orfanato-1.png"/> <img width="320px" src="Screenshots/Orfanato-2.png"/> <img width="320px" src="Screenshots/Orfanato-3.png"/>
 
 <p>Tecnologias utilizadas</p>
 
