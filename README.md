@@ -4,7 +4,18 @@ Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@M
 
 Ação beneficente a crianças carentes
 
-<img width="260px" src="Screenshots/Pagina-Inicial.png"/> <img width="260px" src="Screenshots/Cadastro-1.png"/> <img width="260px" src="Screenshots/Cadastro-2.png"/> <img width="260px" src="Screenshots/Cadastro-3.png"/> <img width="260px" src="Screenshots/Orfanatos.png"/> <img width="260px" src="Screenshots/Orfanato-1.png"/> <img width="260px" src="Screenshots/Orfanato-2.png"/> <img width="260px" src="Screenshots/Orfanato-3.png"/>
+<img width="260px" src="Screenshots/Pagina-Inicial.png"/>
+<img width="260px" src="Screenshots/Orfanatos.png"/>
+
+<img width="260px" src="Screenshots/Orfanato-1.png"/>
+<img width="260px" src="Screenshots/Orfanato-2.png"/>
+<img width="260px" src="Screenshots/Orfanato-3.png"/>
+
+<img width="260px" src="Screenshots/Cadastro-1.png"/>
+<img width="260px" src="Screenshots/Cadastro-2.png"/>
+<img width="260px" src="Screenshots/Cadastro-3.png"/>
+
+
 
 <p>Tecnologias utilizadas</p>
 
