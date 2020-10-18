@@ -1,14 +1,17 @@
 <h1><strong>Happy - Next Level Week</strong></h1>
 <h2><strong>Este projeto foi fornecido pela RocketSeat na Next Level Week #3</strong></h2>
-Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@Maykbrito</a> e a todos da RocketSeat
 
-Ação beneficente a crianças carentes
+
+
 
 <div> <img width="260px" src="Screenshots/Pagina-Inicial.png"/> <img width="260px" src="Screenshots/Orfanatos.png"/> </div>
 
 <div> <img width="260px" src="Screenshots/Orfanato-1.png"/> <img width="260px" src="Screenshots/Cadastro-1.png"/> </div>
 <div> <img width="260px" src="Screenshots/Orfanato-2.png"/> <img width="260px" src="Screenshots/Cadastro-2.png"/> </div>
 <div> <img width="260px" src="Screenshots/Orfanato-3.png"/> <img width="260px" src="Screenshots/Cadastro-3.png"/> </div>
+
+Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@Maykbrito</a> e a todos da RocketSeat
+Ação beneficente a crianças carentes
 
 <p>Tecnologias utilizadas</p>
 
