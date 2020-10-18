@@ -11,7 +11,7 @@
 <div> <img width="260px" src="Screenshots/Orfanato-3.png"/> <img width="260px" src="Screenshots/Cadastro-3.png"/> </div>
 
 Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@Maykbrito</a> e a todos da RocketSeat
-<p> Ação beneficente a crianças carentes </p>
+<br>Ação beneficente a crianças carentes</br>
 
 <p>Tecnologias utilizadas</p>
 
