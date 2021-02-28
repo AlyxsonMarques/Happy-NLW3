@@ -21,14 +21,13 @@ Agradecimentos especiais ao Mayk Brito <a href="https://github.com/maykbrito">@M
 <li>JavaScript</li>
 <li>NodeJS</li>
 <li>SQLite</li>
-<li>Handlebars</li>
-<li>Express Framework</li>
+<li>Handlebars (Template engine)</li>
+<li>Express</li>
 </ul>
 
 <i>(Outras)</i>:
 <ul>
-<li>WhatsApp API</li>
-<li>LeafLet</li>
+<li>LeafLet API</li>
 </ul>
 
 Para rodar o projeto em sua máquina:
